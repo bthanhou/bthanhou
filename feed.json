@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "bills-thoughts",
+    "title": "that-short-disease",
     "description": "",
     "home_page_url": "https://bthanhou.github.io/bthanhou.github.io",
     "feed_url": "https://bthanhou.github.io/bthanhou.github.io/feed.json",
@@ -19,7 +19,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-05T16:20:03-07:00",
+            "date_published": "2017-08-05T16:30:13-07:00",
             "date_modified": "2017-08-05T16:13:04-07:00"
         }
     ]
