@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "bills-thoughts",
     "description": "",
-    "home_page_url": "https://bthanhou.github.io/bthanhou",
-    "feed_url": "https://bthanhou.github.io/bthanhou/feed.json",
+    "home_page_url": "https://bthanhou.github.io/bthanhou.github.io",
+    "feed_url": "https://bthanhou.github.io/bthanhou.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "bill"
     },
     "items": [
         {
-            "id": "https://bthanhou.github.io/bthanhou/my-first-post.html",
-            "url": "https://bthanhou.github.io/bthanhou/my-first-post.html",
+            "id": "https://bthanhou.github.io/bthanhou.github.io/my-first-post.html",
+            "url": "https://bthanhou.github.io/bthanhou.github.io/my-first-post.html",
             "title": "My first post",
             "content_html": "Creating a post because I have to.&nbsp;",
             "author": {
@@ -19,7 +19,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-05T16:18:31-07:00",
+            "date_published": "2017-08-05T16:20:03-07:00",
             "date_modified": "2017-08-05T16:13:04-07:00"
         }
     ]

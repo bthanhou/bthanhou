@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>bills-thoughts</title>
-    <link href="https://bthanhou.github.io/bthanhou/feed.xml" rel="self" />
-    <link href="https://bthanhou.github.io/bthanhou" />
-    <updated>2017-08-05T16:18:31-07:00</updated>
+    <link href="https://bthanhou.github.io/bthanhou.github.io/feed.xml" rel="self" />
+    <link href="https://bthanhou.github.io/bthanhou.github.io" />
+    <updated>2017-08-05T16:20:02-07:00</updated>
     <author>
         <name>bill</name>
     </author>
-    <id>https://bthanhou.github.io/bthanhou</id>
+    <id>https://bthanhou.github.io/bthanhou.github.io</id>
 
     <entry>
         <title>My first post</title>
         <author>
             <name>bill</name>
         </author>
-        <link href="https://bthanhou.github.io/bthanhou/my-first-post.html"/>
-        <id>https://bthanhou.github.io/bthanhou/my-first-post.html</id>
+        <link href="https://bthanhou.github.io/bthanhou.github.io/my-first-post.html"/>
+        <id>https://bthanhou.github.io/bthanhou.github.io/my-first-post.html</id>
 
         <updated>2017-08-05T16:13:04-07:00</updated>
             <summary></summary>
