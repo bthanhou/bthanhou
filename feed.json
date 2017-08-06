@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "that-short-disease",
+    "title": "billogosphere",
     "description": "",
     "home_page_url": "https://bthanhou.github.io/bthanhou.github.io",
     "feed_url": "https://bthanhou.github.io/bthanhou.github.io/feed.json",
@@ -19,7 +19,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-05T17:20:04-07:00",
+            "date_published": "2017-08-05T17:47:20-07:00",
             "date_modified": "2017-08-05T17:05:18-07:00"
         }
     ]
