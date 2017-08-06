@@ -1,26 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "bill-thanhouser",
+    "title": "bills-blog",
     "description": "",
     "home_page_url": "https://bthanhou.github.io/bthanhou.github.io",
     "feed_url": "https://bthanhou.github.io/bthanhou.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Bill Thanhouser"
+        "name": "Bill T"
     },
     "items": [
-        {
-            "id": "https://bthanhou.github.io/bthanhou.github.io/my-first-post.html",
-            "url": "https://bthanhou.github.io/bthanhou.github.io/my-first-post.html",
-            "title": "My first post",
-            "content_html": "I'm carving out my own little corner on the internet, just in case I ever feel like sharing any personal news, thoughts, or ideas I might have.",
-            "author": {
-                "name": "Bill Thanhouser"
-            },
-            "tags": [
-            ],
-            "date_published": "2017-08-05T17:57:05-07:00",
-            "date_modified": "2017-08-05T17:56:56-07:00"
-        }
     ]
 }

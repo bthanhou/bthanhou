@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>bill-thanhouser</title>
+    <title>bills-blog</title>
     <link href="https://bthanhou.github.io/bthanhou.github.io/feed.xml" rel="self" />
     <link href="https://bthanhou.github.io/bthanhou.github.io" />
-    <updated>2017-08-05T17:57:05-07:00</updated>
+    <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
-        <name>Bill Thanhouser</name>
+        <name>Bill T</name>
     </author>
     <id>https://bthanhou.github.io/bthanhou.github.io</id>
 
-    <entry>
-        <title>My first post</title>
-        <author>
-            <name>Bill Thanhouser</name>
-        </author>
-        <link href="https://bthanhou.github.io/bthanhou.github.io/my-first-post.html"/>
-        <id>https://bthanhou.github.io/bthanhou.github.io/my-first-post.html</id>
-
-        <updated>2017-08-05T17:56:56-07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                I'm carving out my own little corner on the internet, just in case I ever feel like sharing any personal news, thoughts, or ideas I might have.
-            ]]>
-        </content>
-    </entry>
 </feed>
