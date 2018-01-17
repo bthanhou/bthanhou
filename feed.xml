@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>bills-blog</title>
+    <title>billog</title>
     <link href="https://bthanhou.github.io/bthanhou.github.io/feed.xml" rel="self" />
     <link href="https://bthanhou.github.io/bthanhou.github.io" />
     <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
-        <name>Bill T</name>
+        <name>Bill</name>
     </author>
     <id>https://bthanhou.github.io/bthanhou.github.io</id>
 
